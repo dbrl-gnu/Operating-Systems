@@ -1,0 +1,700 @@
+PID: 110064
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110065
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110066
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110069
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110070
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110071
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110072
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110073
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110074
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110075
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110080
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110081
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110082
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110083
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110084
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110085
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110086
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110089
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110090
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110091
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110092
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110093
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110095
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110096
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110097
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110098
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110099
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110100
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110101
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110104
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110105
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110106
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110107
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110108
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110109
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110110
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110111
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110112
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110113
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110114
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110115
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110116
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110117
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110120
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110121
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110122
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110123
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110124
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110125
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110126
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110127
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110128
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110129
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110130
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110131
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110132
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110133
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110136
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110137
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110138
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110139
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110140
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110141
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110142
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110143
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110144
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110145
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110146
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110147
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110148
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110149
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110150
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110155
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110156
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110157
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110158
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110159
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110160
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110161
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110162
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110163
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110164
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110165
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110166
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110167
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110168
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110171
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110172
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110173
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110174
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110175
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110176
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110177
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110178
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110179
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110180
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110181
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110182
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110183
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
+PID: 110184
+Numero escrituras: 0
+Primera escritura	50	0	Sun Jun 12 22:23:47 2022
+Ultima escritura	0	0	Thu Jan  1 01:00:00 1970
+Menor Posicion		0	500000	Sun Jun 12 22:23:47 2022
+Mayor Posicion		0	0	Sun Jun 12 22:23:47 2022
+
